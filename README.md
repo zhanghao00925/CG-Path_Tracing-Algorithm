@@ -4,6 +4,11 @@
 
 实现了**Multi-importance sampleing**以及**多种Material**。并利用**OpenMP**进行多线程加速。
 
+## Acknowledgements
+[AGraphicsGuy](https://agraphicsguy.wordpress.com)
+[Peter Shirley and his book](https://github.com/petershirley)
+[PRBT's writers](https://www.pbrt.org/)
+
 ## 编程环境
 
 在**Ubuntu 16.04LTS**上进行了测试，能够成功编译运行测试场景放在`assets`文件夹内，运行前请将model.zip解压，运行时请注意路径是否正确。
